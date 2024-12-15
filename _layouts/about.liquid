@@ -71,8 +71,8 @@ layout: default
       </h2>
       <div class="projects">
         <div class="row">
-          {% assign research_projects = site.projects | where: "category", "research" | sort: "importance" %}
-          {% for project in research_projects limit:2 %}
+          {% assign research_projects = site.projects | where: 'category', 'research' | sort: 'importance' %}
+          {% for project in research_projects limit: 2 %}
             <div class="col-sm-6">
               {% if project.img %}
                 <a href="{{ project.url | relative_url }}">
@@ -80,7 +80,9 @@ layout: default
                 </a>
               {% endif %}
               <div class="project-title">
-                <a href="{{ project.url | relative_url }}"><h3>{{ project.title }}</h3></a>
+                <a href="{{ project.url | relative_url }}">
+                  <h3>{{ project.title }}</h3>
+                </a>
               </div>
               <p class="project-desc">{{ project.description }}</p>
             </div>
