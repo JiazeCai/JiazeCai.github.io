@@ -33,7 +33,7 @@ This is a priliminary flight test of the flapping-wing UAV to demonstrate the ca
 
 ## Design
 
-The current design of the flapping-wing UAV incorporates several innovative features to enhance its flight capabilities. It has individual degree-of-freedom (DoF) for each wing for pitching and flapping, which allows for more complex flight patterns. Note that the recent design is partially referenced from Prof. Raphael Zuffery's paper {% cite zufferey2021eflap %}.
+The current design of the flapping-wing UAV incorporates several innovative features to enhance its flight capabilities. It has individual degree-of-freedom (DoF) for each wing for pitching and flapping, which allows for more complex flight patterns. Note that the recent design is partially referenced from Prof. Raphael Zufferey's paper {% cite zufferey2021eflap %}.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
