@@ -2,7 +2,7 @@
 layout: page
 title: High-DoF Flapping-Wing Robot (2024-present)
 description: A bio-inspired flapping-wing Robot with high degrees of freedom for agile flight. Leveraging learning-based control, the robot is designed to perform agile maneuvers and adapt to complex environments.
-img: assets/img/project_Flappy/Flappy_CAD.png
+img: assets/img/project_Flappy/Flappy_maneuvers.gif
 importance: 2
 category: research
 related_publications: true
@@ -11,6 +11,12 @@ related_publications: true
 ## Project Overview
 
 This ongoing project focuses on the development of a high degree-of-freedom (DoF) flapping-wing UAV inspired by bird flight. The UAV is designed to perform agile maneuvers and adapt to complex environments. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_Flappy/Flappy_CAD.png" title="Flapping Mechanism Design" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ## Flight Test
 This is a priliminary flight test of the flapping-wing UAV to demonstrate the capability of a sustained flight.

@@ -2,7 +2,7 @@
 layout: page
 title: Tube-launched VTOL UAV (2022-2023)
 description: A novel tube-launched UAV with vertical takeoff and landing capability
-img: assets/img/project_ALUAS/ALUAS0.png
+img: assets/img/project_ALUAS/ALUAS_flight.gif
 importance: 1
 category: research
 related_publications: true

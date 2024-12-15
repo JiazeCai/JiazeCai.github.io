@@ -1,3 +1,5 @@
+{% assign section_title = "Research Experience" %}
+<div class="card-title font-weight-medium">{{ section_title }}</div>
 <ul class="card-text font-weight-light list-group list-group-flush">
   {% assign work = data[1] | sort: 'startDate' | reverse %}
   {% for content in work %}
