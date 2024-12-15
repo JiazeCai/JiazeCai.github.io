@@ -17,7 +17,6 @@ This project focuses on the development of a next-generation VTOL (Vertical Take
     </div>
 </div>
 
-
 ### Phase 1: Full-scale Conceptual Design (Sept 2022 - Dec 2022)
 
 The initial phase focused on the theoretical design and realization of a next-generation long-endurance VTOL unmanned aircraft. Key accomplishments include:
@@ -81,4 +80,5 @@ The second phase involved creating a scaled prototype to validate the design con
 </div>
 
 ## Conclusion
+
 The project successfully demonstrated the feasibility of a novel VTOL tail-sitter design incorporating wing-folding mechanisms and double-swashplate control. The prototype validated both hovering capabilities and successful wing deployment during flight.

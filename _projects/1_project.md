@@ -39,6 +39,7 @@ This project involves the development of a Tube-Launched VTOL UAV capable of bot
 ## Flight Testing Videos
 
 ### Transition Flight Demonstration
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
@@ -51,6 +52,7 @@ This project involves the development of a Tube-Launched VTOL UAV capable of bot
 </div>
 
 ### Early Development Iterations
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-10">
         <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
@@ -63,6 +65,7 @@ This project involves the development of a Tube-Launched VTOL UAV capable of bot
 </div>
 
 ### Vertical Flight Testing
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-10">
         <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
@@ -75,6 +78,7 @@ This project involves the development of a Tube-Launched VTOL UAV capable of bot
 </div>
 
 ### Wing Deployment Testing
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-10">
         <div style="position: relative; width: 100%; padding-bottom: 56.25%;">

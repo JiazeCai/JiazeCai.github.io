@@ -23,5 +23,3 @@ Hi! I am a Research Assistant at UC Berkeley in [UC Berkeley Hybrid Robotics Gro
 Since high school, I have designed and built FIRST Robotics Competition (FRC) robots and made DIY drones with Arduino. In college, I was a [TAMU SAE AERO](https://www.tamusaeaero.org/) Aerodynamic, Stability & Control (ASC) Sub-team member working on the aerodynamic design of a 16-lb wooden Aircraft that can store 26 soccer balls inside its wing. I was also an undergraduate researcher at [TAMU Advanced Vertical Flight Lab](https://avfl.engr.tamu.edu/). My previous research is about Vertical Take-off and Landing (VTOL) Unmanned Aerial Vehicles (UAVs) and flight dynamics.
 
 You can find more details about my work in the [publications page](/publications/) and view my [full portfolio](/projects/) for more projects and research work.
-
-

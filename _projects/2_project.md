@@ -10,7 +10,7 @@ related_publications: true
 
 ## Project Overview
 
-This ongoing project focuses on the development of a high degree-of-freedom (DoF) flapping-wing UAV inspired by bird flight. The UAV is designed to perform agile maneuvers and adapt to complex environments. 
+This ongoing project focuses on the development of a high degree-of-freedom (DoF) flapping-wing UAV inspired by bird flight. The UAV is designed to perform agile maneuvers and adapt to complex environments.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -19,6 +19,7 @@ This ongoing project focuses on the development of a high degree-of-freedom (DoF
 </div>
 
 ## Flight Test
+
 This is a priliminary flight test of the flapping-wing UAV to demonstrate the capability of a sustained flight.
 
 <div class="row mt-3">
@@ -30,11 +31,9 @@ This is a priliminary flight test of the flapping-wing UAV to demonstrate the ca
     Flight test demonstrating sustained flapping-wing flight.
 </div>
 
-
-
 ## Design
 
-The current design of the flapping-wing UAV incorporates several innovative features to enhance its flight capabilities. It has individual degree-of-freedom (DoF) for each wing for pitching and flapping, which allows for more complex flight patterns. Note that the recent design is partially referenced from the [paper](https://ieeexplore.ieee.org/abstract/document/9361053). 
+The current design of the flapping-wing UAV incorporates several innovative features to enhance its flight capabilities. It has individual degree-of-freedom (DoF) for each wing for pitching and flapping, which allows for more complex flight patterns. Note that the recent design is partially referenced from the [paper](https://ieeexplore.ieee.org/abstract/document/9361053).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -47,7 +46,6 @@ The current design of the flapping-wing UAV incorporates several innovative feat
 <div class="caption">
     Left: Overview of the flapping-wing UAV. Right: A close-up view of the wings.
 </div>
-
 
 ## Control
 
@@ -78,6 +76,7 @@ We are working on using reinforcement learning to control the flappy-wing robot.
 </div>
 
 ### Control Video Demonstration
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-10">
         <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
@@ -93,6 +92,7 @@ We are working on using reinforcement learning to control the flappy-wing robot.
 This control framework is released [here](https://arxiv.org/html/2411.15130v1).
 
 ## Experiments
+
 We also conducted experiments to test the performance of the flapping-wing UAV in the real world and use the data to improve the simulation accuracy.
 
 <div class="row">

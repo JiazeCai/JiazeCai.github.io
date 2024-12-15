@@ -26,6 +26,7 @@ From February 2020 to June 2020, I participated in the eSMART Competition where 
 ## Technical Analysis and Development
 
 ### Key Contributions:
+
 - Conducted static stability analysis by calculating the boat's metacentric height
 - Developed Python-based simulation tools for performance prediction
 - Performed comprehensive drag calculations using the Guldhammer & Harvald method
@@ -34,7 +35,7 @@ From February 2020 to June 2020, I participated in the eSMART Competition where 
 
 ## Performance Simulation
 
-We developed a comprehensive simulator that integrated various hydrodynamic calculations to predict the acceleration, velocity, distance covered in water. 
+We developed a comprehensive simulator that integrated various hydrodynamic calculations to predict the acceleration, velocity, distance covered in water.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

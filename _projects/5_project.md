@@ -11,11 +11,11 @@ category: fun
 
 FRC lies an significant role in my lift and career in engineering. It opens my eyes to the world of engineering and robotics, which directly led me to my undergraduate study in engineering!
 
-In FRC, I: 
+In FRC, I:
+
 - Intensively participated in the design and deployment of more than five different competition robots for various tasks, including collecting and shooting balls, transporting boxes, climbing stairs, etc., with SolidWorks modeling and intensive benchwork.
 - Worked on the structural design and implementation of different mechanisms (lifting, clamping, etc.) of robots.
 - Performed wiring, pneumatic system implementation, actuator selections, and aluminum profile processing.
-
 
 ### 2018
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fixed-wing RC Plane Design (2020)
-description: A single-propeller fixed-wing RC plane. 
+description: A single-propeller fixed-wing RC plane.
 img: assets/img/project_Fixed-wing/Fixed-wing.jpg
 importance: 4
 category: fun
@@ -42,7 +42,6 @@ This project involved designing and building a remote-controlled fixed-wing airc
     My teammate and I with the plane after crash form the first flight.
 </div>
 
-
 ## Flight Testing
 
 The aircraft underwent extensive flight testing to verify its performance and handling characteristics. Below is a video of one of the successful test flights:
@@ -56,5 +55,4 @@ The aircraft underwent extensive flight testing to verify its performance and ha
     Flight test followed by a crash. 
 </div>
 
-Althought it crash right after the first flight, this was the first time I built an RC plane from scratch and I learned a lot from this experience. 
-
+Althought it crash right after the first flight, this was the first time I built an RC plane from scratch and I learned a lot from this experience.

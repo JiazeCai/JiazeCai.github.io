@@ -17,7 +17,6 @@ From May 2021 to May 2022, I participated in the SAE AERO Design Competition as 
     </div>
 </div>
 
-
 ## Aircraft Design and Development
 
 <div class="row">
@@ -30,6 +29,7 @@ From May 2021 to May 2022, I participated in the SAE AERO Design Competition as 
 </div>
 
 ### Key Contributions:
+
 - Implemented Pixhawk flight controller integration for data acquisition during flight tests
 - Conducted flight test data analysis for design optimization
 - Designed winglets and fairings using CFD (Computational Fluid Dynamics) analysis
@@ -44,7 +44,6 @@ From May 2021 to May 2022, I participated in the SAE AERO Design Competition as 
     </div>
 </div>
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project_SAE/SAE_construction.jpg" title="Plane in construction" class="img-fluid rounded z-depth-1" %}
@@ -54,8 +53,8 @@ From May 2021 to May 2022, I participated in the SAE AERO Design Competition as 
     The prototype of the airplane in construction. Demonstrating the soccer balls inside the wing.
 </div>
 
-
 ## Competition Video
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-10">
         <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
@@ -70,9 +69,9 @@ From May 2021 to May 2022, I participated in the SAE AERO Design Competition as 
 ## Technical Highlights
 
 The aircraft was designed with several innovative features:
+
 - Wooden construction optimized for strength and weight
 - Truss stucture wing ribs
 - Cargo bay capable of storing 27 soccer balls inside the wing
 - Custom-designed winglets for improved aerodynamic efficiency (Shape like a Orca whale)
 - Comprehensive CFD analysis and wind tunnel testing
-
