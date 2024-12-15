@@ -12,9 +12,9 @@ category: fun
 This section is for the projects that I did before 2019. Some of them are not really a project but just some fun things I did.
 
 ### VTOL UAV Design
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_other/VTOL.jpg" title="VTOL UAV Design" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_other/VTOL.jpg" title="VTOL UAV Design" class="img-fluid rounded z-depth-1"  width="50%"%}
     </div>
 </div>
 <div class="caption">
@@ -24,9 +24,9 @@ This section is for the projects that I did before 2019. Some of them are not re
 I loved to build and play with model planes, cars, and boats when I was a kid. I always keep them carefully until now.
 
 ### RC Sailboat
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_other/RC_sailboat.jpg" title="RC Sailboat" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_other/RC_sailboat.jpg" title="RC Sailboat" class="img-fluid rounded z-depth-1" width="50%" %}
     </div>
 </div>
 <div class="caption">
@@ -34,9 +34,9 @@ I loved to build and play with model planes, cars, and boats when I was a kid. I
 </div>
 
 ### RC Car
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_other/RC_car.jpg" title="RC Car" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_other/RC_car.jpg" title="RC Car" class="img-fluid rounded z-depth-1"  width="50%" %}
     </div>
 </div>
 <div class="caption">
@@ -44,9 +44,9 @@ I loved to build and play with model planes, cars, and boats when I was a kid. I
 </div>
 
 ### RC Helicopter
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_other/RC_helicopter.jpg" title="RC Helicopter" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_other/RC_helicopter.jpg" title="RC Helicopter" class="img-fluid rounded z-depth-1"  width="50%" %}
     </div>
 </div>
 <div class="caption">
@@ -54,9 +54,9 @@ I loved to build and play with model planes, cars, and boats when I was a kid. I
 </div>
 
 ### Model Plane
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_other/RC_plane.jpg" title="RC Plane" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_other/RC_plane.jpg" title="RC Plane" class="img-fluid rounded z-depth-1"  width="50%" %}
     </div>
 </div>
 <div class="caption">
