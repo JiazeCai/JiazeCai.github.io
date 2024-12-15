@@ -1,7 +1,7 @@
 ---
 layout: page
-title: FRC & CRC Robotics Competitions (2017-2019)
-description: Participated in FRC and CRC Robotics Competitions, designing and manufacturing robots for different tasks.
+title: FRC Robotics Competitions (2017-2019)
+description: Participated in FRC (FIRST Robotics Competition), designing and manufacturing robots for different tasks.
 img: assets/img/project_FRC/FRC_2019.png
 importance: 3
 category: fun
