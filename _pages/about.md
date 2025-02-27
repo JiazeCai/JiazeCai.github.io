@@ -6,7 +6,7 @@ subtitle: Research Assistant at UC Berkeley Hybrid Robotics Group
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_old.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Berkeley, California</p>
