@@ -14,12 +14,12 @@
   },
   "education": [
     {
-      "institution": "University of California, Berkeley",
-      "area": "Mechanical Engineering",
-      "studyType": "Doctor of Philosophy",
-      "startDate": "2024-08",
+      "institution": "Massachusetts Institute of Technology",
+      "area": "EECS",
+      "studyType": "PhD Student",
+      "startDate": "2025-09",
       "endDate": "Present",
-      "highlights": ["Research focus on flapping-wing aerial robotics and learning-based control"]
+      "highlights": ["Research focus on micro aerial vehicles and soft robotics"]
     },
     {
       "institution": "University of California, Berkeley",
@@ -44,16 +44,15 @@
   "work": [
     {
       "name": "Hybrid Robotics Group, UC Berkeley",
-      "position": "Graduate Student Researcher (PhD Student)",
+      "position": "Research Assistant",
       "url": "https://hybrid-robotics.berkeley.edu/",
       "startDate": "2024-05",
-      "endDate": "Present",
+      "endDate": "2025-08",
       "highlights": [
         "Designing and developing a high-DoF bird-scale flapping-wing robot",
         "Developed simulation environments for learning-based control",
         "Implemented learning-based control framework for agile trajectory tracking",
-        "Working on deploying control policy on physical flapping-wing robot",
-        "Continuing this research as part of the UC Berkeley Mechanical Engineering PhD program"
+        "Working on deploying control policy on physical flapping-wing robot"
       ]
     },
     {
