@@ -11,8 +11,7 @@ profile:
   more_info: >
     <p>Cambridge, Massachusetts</p>
     <p>United States</p>
-    <p>jiaze12@mit.edu</p> 
-    <p>jiaze12@berkeley.edu</p>
+    <p>jiaze12@mit.edu; jiaze12@berkeley.edu</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
