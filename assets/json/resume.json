@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Jiaze Cai",
-    "label": "PhD Student in Mechanical Engineering",
-    "email": "jiaze12@berkeley.edu; jiaze12@berkeley.edu",
+    "label": "PhD Student in MIT EECS",
+    "email": "jiaze12@mit.edu; jiaze12@berkeley.edu",
     "phone": "",
     "url": "https://jiazecai.github.io",
-    "summary": "PhD student in the Hybrid Robotics Group at UC Berkeley, focusing on aerial robotics and learning-based control.",
+    "summary": "PhD student in the Soft and Micro Robotics Laboratory at MIT, focusing on development of micro aerial robots.",
     "location": {
-      "city": "Berkeley",
+      "city": "Cambridge",
       "countryCode": "US",
-      "region": "California"
+      "region": "Massachusetts"
     }
   },
   "education": [
